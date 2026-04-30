@@ -1,46 +1,138 @@
-<img src="https://media.giphy.com/media/kdiLau77NE9Z8vxGSO/source.gif" align="right" width="250" height="250">
+<img src="https://media.giphy.com/media/kdiLau77NE9Z8vxGSO/source.gif" align="right" width="210" />
 
-# Hi I'm Ramis.
+# Hi, I'm Ramis Şeker 👋
 
-### Learning React Native, Javascript etc.
+### Full Stack Developer | Frontend & Backend Architecture
 
-<br />
-<br />
+I'm a full stack developer with strong experience in building scalable web applications, internal platforms, SaaS products and mobile-first solutions.
 
-# Reach out to me
+I focus on creating clean architectures, maintainable codebases and reliable product experiences while helping teams deliver features with clarity, ownership and technical quality.
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
-
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left"  />][twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-
-<br />
-<br />
-
-# Tech I use
-
-<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width="25" height="25" />
-<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="25" height="25" />
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="25" height="25" />
+My work usually sits between **product thinking**, **frontend architecture**, **backend development**, **team coordination** and **delivery leadership**.
 
 <br />
 
-[instagram]: https://www.instagram.com/ramisseker/
-[twitter]: https://twitter.com/ramisseker
-[linkedin]: https://www.linkedin.com/in/ramis-seker/
+## 🚀 About Me
+
+* 👨‍💻 Experienced in modern web and mobile application development
+* 🧩 Focused on scalable frontend architecture, reusable UI systems and clean component design
+* ⚙️ Comfortable with backend APIs, database modeling and integration workflows
+* 🧭 Interested in product thinking, delivery ownership and engineering leadership
 
 <br />
 
-<details>
-<summary>:bar_chart:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
-</details>
+## 🧰 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=fff)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge\&logo=nuxt.js\&logoColor=fff)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge\&logo=astro\&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=fff)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=fff)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=fff)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge\&logo=fastify\&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=fff)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge\&logo=sequelize\&logoColor=fff)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=fff)
+
+### Cloud, DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=000)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=fff)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=fff)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=fff)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge\&logo=sentry\&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=fff)
+
+### Other Technologies
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=fff)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge\&logo=puppeteer\&logoColor=fff)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge\&logo=discord\&logoColor=fff)
+![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge\&logo=asana\&logoColor=fff)
+
+<br />
+
+## 🧠 Engineering Focus
+
+```js
+const ramis = {
+  role: "Full Stack Developer",
+  focus: [
+    "Frontend Architecture",
+    "Backend API Design",
+    "Internal Platforms",
+    "SaaS Product Development",
+    "Reusable UI Systems",
+    "Delivery Ownership",
+  ],
+  frontend: ["React", "React Native", "Vue", "Next.js", "Nuxt.js", "TypeScript"],
+  backend: ["Node.js", "Express", "Fastify", "PostgreSQL", "MongoDB", "Sequelize"],
+  practices: ["Code Review", "Task Breakdown", "Mentoring", "Cross-functional Communication"],
+};
+```
+
+<br />
+
+## 💼 Experience Highlights
+
+* Built internal dashboards, HR tools, reporting systems and business-critical management platforms
+* Designed scalable frontend structures with reusable components and modular page architectures
+* Developed backend services, REST APIs and database-driven features with Node.js and PostgreSQL
+* Created third-party integrations, automation flows and internal business tools
+* Supported sprint planning, task breakdown, code review and cross-team technical coordination
+
+<br />
+
+## 🏗️ Projects I Enjoy Building
+
+* SaaS platforms and internal business tools
+* Admin dashboards and reporting interfaces
+* Component libraries and design-system-like UI structures
+* Backend APIs, integrations and automation systems
+
+<br />
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramisseker&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramisseker&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<br />
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramis%20Şeker-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/ramis-seker/)
+[![Twitter](https://img.shields.io/badge/Twitter-@ramisseker-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=fff)](https://twitter.com/ramisseker)
+[![Instagram](https://img.shields.io/badge/Instagram-@ramisseker-E4405F?style=for-the-badge\&logo=instagram\&logoColor=fff)](https://www.instagram.com/ramisseker/)
+
+<br />
+
+---
+
+<p align="center">
+  Building scalable products, clean architectures and better developer experiences 🚀
+</p>
