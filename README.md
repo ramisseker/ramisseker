@@ -114,11 +114,19 @@ const ramis = {
 
 <br />
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramisseker&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramisseker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramisseker&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ramisseker&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramisseker&theme=tokyonight" />
 </p>
 
 <br />
